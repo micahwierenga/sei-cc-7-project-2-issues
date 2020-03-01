@@ -2,7 +2,7 @@
 
 ### 1. Look through the previous submissions to see if one is relevant to your issue.
 
-### 2. If no issue is relevant, submit a new issue with the following elements:
+### 2. If no issue is relevant, submit a new issue (use the Issues tab above) with the following elements:
 
 - Describe the issue.
 
