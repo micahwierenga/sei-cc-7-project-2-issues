@@ -1,1 +1,15 @@
-# sei-cc-7-project-2-issues
+# Project 2 Issues (SEI-CC-7)
+
+### 1. Look through the previous submissions to see if one is relevant to your issue.
+
+### 2. If no issue is relevant, submit a new issue with the following elements:
+
+- Describe the issue.
+
+- Paste any relevant code and/or errors (use triple backticks before and after to format as code).
+
+- Paste links to any resources you've consulted for help.
+
+- Describe your attempt(s) at resolving the issue.
+
+### 3. Once you've clicked submitted your issue, copy the link and paste in the Slack Help List.
