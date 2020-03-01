@@ -1,6 +1,6 @@
 # Project 2 Issues (SEI-CC-7)
 
-### 1. Look through the previous submissions to see if one is relevant to your issue.
+### 1. Look through the previous closed submissions to see if one is relevant to your issue. You can do this by clicking the "Issues" tab above and then clicking on "Closed".
 
 ### 2. If no issue is relevant, submit a new issue (use the Issues tab above) with the following elements:
 
